@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dennis-JwWeng
 - 🌱 I’m currently learning pursuing MSc Computer Control and Automation (CCA) at Nanyang Technological University.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Human Acitiviy Recognition (HAR).
 - 📫 You can reach me through JWENG007@e.ntu.edu.sg
 
 
